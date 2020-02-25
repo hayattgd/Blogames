@@ -1,17 +1,34 @@
 .header {
-    background-color: #ffff0035;
+    background-color: #b98d13;
     height: 127px;
     width: fit-content;
 }
 
 .main {
-    background-color: #0000ff35;
-    height: 500px;
+    background-color: #66ca62;
+    height: fit-content;
     width: fit-content;
+    padding: 0px;
+    margin: 0px;
 }
 
 .footer {
-    background-color: m#9370d835;
+    background-color: #95d3a9;
     height: 127px;
     width: fit-content;
+}
+
+.text-header-logo {
+    font-size: 35px;
+    padding: 35px;
+}
+
+.main-text{
+    font-family: "Gothic Mideum";
+    font-size: 15px;
+    padding: 15px;
+}
+
+body {
+    font-family: Arial;
 }
