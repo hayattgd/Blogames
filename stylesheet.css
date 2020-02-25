@@ -46,3 +46,8 @@ body {
 li {
     list-style: none;
 }
+
+.gameandblog-blog-text{
+    float: right;
+    font-size: 20px;
+}
